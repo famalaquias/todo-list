@@ -20,8 +20,8 @@ O Projeto To-do List trata-se de uma p√°gina web de uma lista de tarefas. O usu√
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML5](https://biblioteca.wiki/html5/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Styled-components](https://styled-components.com)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Socket.IO](https://socket.io)
 
 
