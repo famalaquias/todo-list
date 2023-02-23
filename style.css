@@ -1,0 +1,108 @@
+// Resetando todas essas propriedades;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;   
+}
+
+// Root: a propriedade que estiver dentro do root, servirá para TODO o código;
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  /* background-color: #A9A9A9; */
+  /* background-color: #FFFAF0; */
+  background-color: #F8F8FF;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 0;
+}
+
+main {
+  margin: 120px 200px;
+}
+
+.imagem {
+  width: 900px;
+}
+
+h1 {
+  color: #708090;
+  font-size: 30px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-top: 130px;
+  border-radius: 0.4em;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+#funcionamento {
+  color: #C0C0C0;
+  font-size: 16px;
+  font-weight: 300;
+  max-width: 200px;
+  position: absolute;
+  margin-top: -370px;
+  margin-left: 60px;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid rgb(0, 0, 0) ;
+}
+
+#lista-tarefas {
+  max-width: 245px;
+}
+
+ol {
+  text-align: left;
+  margin-left: -10px;
+}
+
+ol li {
+  color: #C0C0C0;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+input {
+  background-color: #C0C0C0;
+  padding: 5px 0px;
+  border: 1.5px solid #708090;
+  border-radius: 0.3em;
+  position: absolute;
+  margin-top: -300px;
+  margin-left: 60px;
+}
+
+button {
+  background-color: #C0C0C0;
+  border: 1.5px solid #708090;
+  color: #708090;
+  border-radius: 0.5em;
+  padding: 5px 6.5px;
+  /* position: absolute; */
+  /* margin-top: -250px;
+  margin-left: 200px; */
+}
+
+#criar-tarefa {
+  padding: 5px 13px;
+  margin-left: 2px;
+  position: absolute;
+  margin-top: -300px;
+  margin-left: 240px;
+}
+
+.todo-list {
+  position: absolute;
+  margin-top: -260px;
+  margin-left: 60px;
+}
