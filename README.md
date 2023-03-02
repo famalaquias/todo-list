@@ -10,7 +10,7 @@ O Projeto To-do List trata-se de uma página web de uma lista de tarefas. O usu�
 
 ## :man_technologist: Habilidades Desenvolvidas
 
-- [x] Criar a estrutura doML
+- [x] Criar a estrutura do HTML
 - [x] Criar a estrutura do CSS
 - [x] Reagir a interações do usuário utilizando escutadores de eventos
 
